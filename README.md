@@ -47,4 +47,12 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0113-path-sum-ii) |
+## Array
+|  |
+| ------- |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2212-removing-minimum-and-maximum-from-array) |
+## Greedy
+|  |
+| ------- |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2212-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
