@@ -52,6 +52,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0724-find-pivot-index) |
@@ -70,11 +71,13 @@ My Solutions for DSA practice assignment
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -93,11 +96,13 @@ My Solutions for DSA practice assignment
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
