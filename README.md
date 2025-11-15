@@ -52,6 +52,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
 ## Backtracking
 |  |
 | ------- |
@@ -71,6 +72,7 @@ My Solutions for DSA practice assignment
 | [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0735-asteroid-collision) |
+| [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
 | [1603-running-sum-of-1d-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2737-row-with-maximum-ones](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2737-row-with-maximum-ones) |
@@ -182,4 +184,9 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0155-min-stack) |
+| [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
