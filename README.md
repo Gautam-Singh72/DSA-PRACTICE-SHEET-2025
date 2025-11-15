@@ -68,6 +68,7 @@ My Solutions for DSA practice assignment
 | [0189-rotate-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -88,6 +89,7 @@ My Solutions for DSA practice assignment
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -162,4 +164,12 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
