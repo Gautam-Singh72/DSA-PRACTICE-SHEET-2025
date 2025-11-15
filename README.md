@@ -134,6 +134,7 @@ My Solutions for DSA practice assignment
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0125-valid-palindrome) |
 ## Matrix
 |  |
@@ -167,6 +168,7 @@ My Solutions for DSA practice assignment
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
