@@ -66,6 +66,7 @@ My Solutions for DSA practice assignment
 | [0074-search-a-2d-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1603-running-sum-of-1d-array) |
@@ -85,12 +86,14 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -113,6 +116,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -120,6 +124,7 @@ My Solutions for DSA practice assignment
 | [0053-maximum-subarray](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,4 +150,16 @@ My Solutions for DSA practice assignment
 | [0099-recover-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
