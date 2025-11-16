@@ -177,19 +177,26 @@ My Solutions for DSA practice assignment
 | [0232-implement-queue-using-stacks](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
+| [0937-online-stock-span](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
