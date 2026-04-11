@@ -83,6 +83,7 @@ My Solutions for DSA practice assignment
 | [2737-row-with-maximum-ones](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2737-row-with-maximum-ones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +103,7 @@ My Solutions for DSA practice assignment
 | [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Counting
 |  |
 | ------- |
