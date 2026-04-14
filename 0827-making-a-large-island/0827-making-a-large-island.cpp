@@ -50,7 +50,7 @@ public:
                     for(int k=0; k<4; k++){
                         int r=i+dx[k];
                         int c=j+dy[k];
-                        if(isValid(r, c, n) ){
+                        if(isValid(r, c, n) && grid[r][c]!=0){
                             s.insert(grid[r][c]);
                         }
                     }
