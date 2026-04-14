@@ -78,6 +78,7 @@ My Solutions for DSA practice assignment
 | [0724-find-pivot-index](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0735-asteroid-collision) |
 | [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
+| [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1603-running-sum-of-1d-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -137,6 +138,7 @@ My Solutions for DSA practice assignment
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
+| [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +190,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
+| [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
 ## Bucket Sort
 |  |
 | ------- |
