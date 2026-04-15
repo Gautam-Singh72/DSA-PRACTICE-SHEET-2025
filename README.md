@@ -173,6 +173,7 @@ My Solutions for DSA practice assignment
 | [0657-robot-return-to-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Matrix
 |  |
@@ -190,6 +191,7 @@ My Solutions for DSA practice assignment
 | [0735-asteroid-collision](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0735-asteroid-collision) |
 | [2069-walking-robot-simulation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
