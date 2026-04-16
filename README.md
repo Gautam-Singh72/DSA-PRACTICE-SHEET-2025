@@ -89,6 +89,7 @@ My Solutions for DSA practice assignment
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2737-row-with-maximum-ones](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2737-row-with-maximum-ones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3488-closest-equal-element-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3488-closest-equal-element-queries) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3724-minimum-operations-to-transform-array) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -111,6 +112,7 @@ My Solutions for DSA practice assignment
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3488-closest-equal-element-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3488-closest-equal-element-queries) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Counting
@@ -137,6 +139,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
+| [3488-closest-equal-element-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3488-closest-equal-element-queries) |
 ## Sorting
 |  |
 | ------- |
