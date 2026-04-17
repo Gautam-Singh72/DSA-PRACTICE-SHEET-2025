@@ -1,24 +1,31 @@
 class Solution {
 public:
-    int solve(int i, int j, string w1, string w2, vector<vector<int>>& dp){
-        if(i<0 && j<0)  return 0;
-        if(i<0) return j+1;
-        if(j<0) return i+1;
-        if(dp[i][j]!=-1)    return dp[i][j];
+    
+    int minDistance(string w1, string w2) {
+        int m=w1.size();
+        int n=w2.size();
+        vector<vector<int>> dp(m+1, vector<int>(n+1, -1));
+        dp[0][0]=0;
+        for(int j=0; j<=n; j++){
+            dp[0][j]=j;
+        }
+        for(int i=0; i<=m; i++){
+            dp[i][0]=i;
+        }
+        for(int i=1; i<=m; i++){
+            for(int j=1; j<=n; j++){
+                if(i==0 && j==0)    continue;
+                if(w1[i-1]==w2[j-1])    dp[i][j]=dp[i-1][j-1];
+                else{
+                    int insert=1+dp[i][j-1];
+                    int del=1+dp[i-1][j];
+                    int rep=1+dp[i-1][j-1];
 
-        if(w1[i]==w2[j])    return dp[i][j]=solve(i-1, j-1, w1, w2, dp);
+                    dp[i][j]=min({insert, del, rep});
+                }
+            }
+        }
 
-        int insert=1+solve(i, j-1, w1, w2, dp);
-        int del=1+solve(i-1, j, w1, w2, dp);
-        int rep=1+solve(i-1, j-1, w1, w2, dp);
-
-        return dp[i][j]=min({insert, del, rep});
-    }
-    int minDistance(string word1, string word2) {
-        int m=word1.size();
-        int n=word2.size();
-        vector<vector<int>> dp(m, vector<int>(n, -1));
-
-        return solve(m-1, n-1, word1, word2, dp);
+        return dp[m][n];
     }
 };
