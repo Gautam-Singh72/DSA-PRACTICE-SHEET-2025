@@ -166,6 +166,7 @@ My Solutions for DSA practice assignment
 | [0115-distinct-subsequences](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0516-longest-palindromic-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0583-delete-operation-for-two-strings) |
 | [0688-knight-probability-in-chessboard](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0688-knight-probability-in-chessboard) |
@@ -179,6 +180,7 @@ My Solutions for DSA practice assignment
 | [0115-distinct-subsequences](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
+| [0516-longest-palindromic-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
