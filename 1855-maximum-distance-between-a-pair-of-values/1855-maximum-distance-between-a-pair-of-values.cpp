@@ -19,11 +19,9 @@ public:
         int m=nums2.size();
         int maxi=INT_MIN;
         for(int i=0; i<n; i++){
-            int target=nums1[i];
-            int j=find_farthestPoint(i, m-1, target, nums2);
-            if(j!=-1){
-                maxi=max(maxi, j-i);
-            }
+            int j=find_farthestPoint(i, m-1, nums1[i], nums2);
+            if(j==-1)   continue;
+            maxi=max(maxi, j-i);
         }
         return maxi==INT_MIN ? 0 : maxi;
     }
