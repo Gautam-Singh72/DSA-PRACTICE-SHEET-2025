@@ -68,6 +68,7 @@ My Solutions for DSA practice assignment
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0048-rotate-image) |
@@ -149,6 +150,7 @@ My Solutions for DSA practice assignment
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0125-valid-palindrome) |
@@ -165,6 +167,7 @@ My Solutions for DSA practice assignment
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
