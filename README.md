@@ -108,6 +108,7 @@ My Solutions for DSA practice assignment
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3724-minimum-operations-to-transform-array) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |
@@ -206,6 +207,7 @@ My Solutions for DSA practice assignment
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2463-minimum-total-distance-traveled) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3742-maximum-path-score-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -235,6 +237,7 @@ My Solutions for DSA practice assignment
 | [0695-max-area-of-island](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0827-making-a-large-island) |
 | [2737-row-with-maximum-ones](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2737-row-with-maximum-ones) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
