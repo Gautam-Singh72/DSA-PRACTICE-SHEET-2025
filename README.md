@@ -60,6 +60,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0203-remove-linked-list-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0203-remove-linked-list-elements) |
 | [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
 ## Backtracking
 |  |
@@ -318,4 +319,5 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
+| [0203-remove-linked-list-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
