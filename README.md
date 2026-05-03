@@ -223,6 +223,7 @@ My Solutions for DSA practice assignment
 | [0516-longest-palindromic-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0796-rotate-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -326,4 +327,8 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0203-remove-linked-list-elements) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
