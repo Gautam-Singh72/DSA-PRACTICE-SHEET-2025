@@ -58,6 +58,7 @@ My Solutions for DSA practice assignment
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0203-remove-linked-list-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0203-remove-linked-list-elements) |
@@ -162,6 +163,7 @@ My Solutions for DSA practice assignment
 | [0015-3sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
