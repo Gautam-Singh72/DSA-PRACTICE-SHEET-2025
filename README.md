@@ -112,6 +112,7 @@ My Solutions for DSA practice assignment
 | [2737-row-with-maximum-ones](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2737-row-with-maximum-ones) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3355-zero-array-transformation-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3355-zero-array-transformation-i) |
+| [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3488-closest-equal-element-queries) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -135,6 +136,7 @@ My Solutions for DSA practice assignment
 | [1603-running-sum-of-1d-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1603-running-sum-of-1d-array) |
 | [2615-sum-of-distances](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2615-sum-of-distances) |
 | [3355-zero-array-transformation-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3355-zero-array-transformation-i) |
+| [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -185,12 +187,14 @@ My Solutions for DSA practice assignment
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1861-rotating-the-box) |
+| [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3488-closest-equal-element-queries) |
 ## Sorting
