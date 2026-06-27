@@ -242,6 +242,7 @@ My Solutions for DSA practice assignment
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0072-edit-distance) |
