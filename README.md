@@ -100,6 +100,7 @@ My Solutions for DSA practice assignment
 | [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1603-running-sum-of-1d-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1861-rotating-the-box) |
@@ -126,6 +127,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3724-minimum-operations-to-transform-array) |
@@ -207,6 +209,7 @@ My Solutions for DSA practice assignment
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 | [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2463-minimum-total-distance-traveled](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2463-minimum-total-distance-traveled) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Divide and Conquer
