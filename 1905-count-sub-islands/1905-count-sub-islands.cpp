@@ -10,7 +10,7 @@ public:
     bool bfs(int i, int j, vector<vector<int>>& grid1, vector<vector<int>>& grid2){
         queue<pair<int, int>> q;
         q.push({i, j});
-        grid1[i][j]=0;
+        // grid1[i][j]=0; we dont have to chnage grid1
         grid2[i][j]=0;
         bool flag=true;
         while(!q.empty()){
@@ -21,12 +21,10 @@ public:
             for(int k=0; k<4; k++){
                 int nextRow=row+dx[k];
                 int nextCol=col+dy[k];
-                if(isValid(nextRow, nextCol) && grid1[nextRow][nextCol]==1 && grid2[nextRow][nextCol]==1){
+                if(isValid(nextRow, nextCol) && grid2[nextRow][nextCol]==1){
+                    if(grid1[nextRow][nextCol]==0)  flag=false;
                     q.push({nextRow, nextCol});
-                    grid1[nextRow][nextCol]=0;
                     grid2[nextRow][nextCol]=0;
-                }else if(isValid(nextRow, nextCol) && grid1[nextRow][nextCol]==0 && grid2[nextRow][nextCol]==1){
-                    flag=false;
                 }
             }
         }
