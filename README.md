@@ -52,6 +52,7 @@ My Solutions for DSA practice assignment
 | [0827-making-a-large-island](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0827-making-a-large-island) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1905-count-sub-islands](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1905-count-sub-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -120,6 +121,7 @@ My Solutions for DSA practice assignment
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2615-sum-of-distances) |
 | [2737-row-with-maximum-ones](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2737-row-with-maximum-ones) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3355-zero-array-transformation-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
@@ -206,6 +208,7 @@ My Solutions for DSA practice assignment
 | [0074-search-a-2d-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3488-closest-equal-element-queries) |
@@ -286,6 +289,7 @@ My Solutions for DSA practice assignment
 | [1861-rotating-the-box](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1861-rotating-the-box) |
 | [1905-count-sub-islands](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1905-count-sub-islands) |
 | [2737-row-with-maximum-ones](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2737-row-with-maximum-ones) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
@@ -308,6 +312,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -369,6 +374,7 @@ My Solutions for DSA practice assignment
 | [0827-making-a-large-island](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0827-making-a-large-island) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1905-count-sub-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
