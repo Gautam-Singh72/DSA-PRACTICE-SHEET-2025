@@ -53,6 +53,7 @@ My Solutions for DSA practice assignment
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1905-count-sub-islands](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1905-count-sub-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -123,6 +124,7 @@ My Solutions for DSA practice assignment
 | [2737-row-with-maximum-ones](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2737-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3355-zero-array-transformation-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -290,6 +292,7 @@ My Solutions for DSA practice assignment
 | [1905-count-sub-islands](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1905-count-sub-islands) |
 | [2737-row-with-maximum-ones](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2737-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
@@ -313,6 +316,7 @@ My Solutions for DSA practice assignment
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -400,8 +404,10 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0399-evaluate-division) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0399-evaluate-division) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
