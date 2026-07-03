@@ -10,31 +10,28 @@
  */
 class Solution {
 public:
+    void solve(vector<int>& arr, int k){
+        int n=arr.size();
+        reverse(arr.begin(), arr.begin()+n-k);
+        reverse(arr.begin()+n-k, arr.end());
+        reverse(arr.begin(), arr.end());
+    }
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head==NULL || head->next==NULL){
-            return head;
-        }
+        if(head==NULL || k==0)  return head;
+        vector<int> arr;
         ListNode* temp=head;
-        int count=0;
-        while(temp!=NULL){
-            count++;
+        while(temp){
+            arr.push_back(temp->val);
             temp=temp->next;
         }
-        k=k%count;
-        if(k==0){
-            return head;
-        }
-        count=count-k; temp=head;
-        while(--count){
+        int len=arr.size();
+        k=k%len;
+        solve(arr, k);
+        temp=head;
+        for(int i=0; i<len; i++){
+            temp->val=arr[i];
             temp=temp->next;
         }
-        ListNode* new_head=temp->next;
-        temp->next=NULL;
-        temp=new_head;
-        while(temp->next!=NULL){
-            temp=temp->next;
-        }
-        temp->next=head;
-        return new_head;
+        return head;
     }
 };
