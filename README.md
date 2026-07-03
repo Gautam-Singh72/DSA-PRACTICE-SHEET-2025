@@ -267,6 +267,7 @@ My Solutions for DSA practice assignment
 | [0115-distinct-subsequences](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
+| [0214-shortest-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0214-shortest-palindrome) |
 | [0399-evaluate-division](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0583-delete-operation-for-two-strings) |
@@ -387,6 +388,7 @@ My Solutions for DSA practice assignment
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0796-rotate-string) |
 ## Segment Tree
 |  |
@@ -410,4 +412,12 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0399-evaluate-division](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
