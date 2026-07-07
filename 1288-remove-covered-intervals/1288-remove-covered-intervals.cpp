@@ -6,15 +6,16 @@ public:
 
         return false;
     }
+    //t.c-O(n*logn + n)=O(n*logn)
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
         int n=intervals.size();
-        sort(intervals.begin(), intervals.end(), compare);
+        sort(intervals.begin(), intervals.end(), compare); //n*(logn)
 
         int i=0; int overlap=0;
-        for(int j=i+1; j<n; j++){
+        for(int j=i+1; j<n; j++){ //O(n)
             int start=intervals[j][0];
             int end=intervals[j][1];
-            if(start>=intervals[i][0] && end<=intervals[i][1]){
+            if(/*start>=intervals[i][0] && */end<=intervals[i][1]){
                 overlap++;
             }else{
                 i=j;
