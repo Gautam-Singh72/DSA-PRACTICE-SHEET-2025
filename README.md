@@ -197,6 +197,7 @@ My Solutions for DSA practice assignment
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
