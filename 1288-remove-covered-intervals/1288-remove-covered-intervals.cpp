@@ -16,7 +16,8 @@ public:
         for(int j=1; j<n; j++){ //O(n)
             int start=intervals[j][0];
             int end=intervals[j][1];
-            if(start>=result.back()[0] && end<=result.back()[1]){
+            //start>=result.back()[0] since sorted no need of this condition
+            if(end<=result.back()[1]){
                 continue;
             }
             result.push_back(intervals[j]);
