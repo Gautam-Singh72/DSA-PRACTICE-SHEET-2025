@@ -79,6 +79,7 @@ My Solutions for DSA practice assignment
 | [0061-rotate-list](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0203-remove-linked-list-elements) |
 | [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
 ## Backtracking
@@ -169,6 +170,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0127-word-ladder](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
@@ -368,6 +370,7 @@ My Solutions for DSA practice assignment
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
@@ -456,4 +459,8 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3620-network-recovery-pathways) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
