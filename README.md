@@ -140,6 +140,7 @@ My Solutions for DSA practice assignment
 | [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3620-network-recovery-pathways) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -180,6 +181,7 @@ My Solutions for DSA practice assignment
 | [2615-sum-of-distances](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2615-sum-of-distances) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3488-closest-equal-element-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -232,6 +234,7 @@ My Solutions for DSA practice assignment
 | [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
@@ -414,6 +417,7 @@ My Solutions for DSA practice assignment
 | [1905-count-sub-islands](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Recursion
 |  |
 | ------- |
@@ -443,6 +447,7 @@ My Solutions for DSA practice assignment
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
