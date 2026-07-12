@@ -94,6 +94,7 @@ My Solutions for DSA practice assignment
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0018-4sum) |
@@ -159,6 +160,7 @@ My Solutions for DSA practice assignment
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -222,6 +224,7 @@ My Solutions for DSA practice assignment
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0018-4sum) |
