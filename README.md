@@ -501,4 +501,8 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0146-lru-cache) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
