@@ -17,12 +17,10 @@ public:
            bool op1=solve(i, j-2, s, p); 
 
            //agar pichla wala character ek ya jyada baar lena ho
-           int idx=i;
            bool op2=false;
-           while(idx>=0 && (s[idx]==p[j-1] || p[j-1]=='.')){
-            op2=op2 || solve(idx-1, j-2, s, p);
-            idx--;
-           }
+           if(s[i]==p[j-1] || p[j-1]=='.')
+                op2=solve(i-1, j, s, p);
+           
            return op1 || op2;
         }  
 
