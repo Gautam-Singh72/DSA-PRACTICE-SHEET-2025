@@ -1,13 +1,14 @@
 class Solution {
 public:
-    int countPairs(vector<int>& arr) {
-    vector<int> freq(60, 0);
+    //count pairs whose sum is divisible by t
+    int countPairs(int t, vector<int>& arr) {
+    vector<int> freq(t, 0);
     int count = 0;
 
     for (int time : arr) {
-        int rem = time % 60;
-        int complement = (60 - rem);
-        if(complement==60){
+        int rem = time % t;
+        int complement = (t - rem);
+        if(complement==t){
             count+=freq[0];
         }
         else{
@@ -20,6 +21,6 @@ public:
 }
     int numPairsDivisibleBy60(vector<int>& time) {
         
-        return countPairs(time);
+        return countPairs(60, time);
     }
 };
