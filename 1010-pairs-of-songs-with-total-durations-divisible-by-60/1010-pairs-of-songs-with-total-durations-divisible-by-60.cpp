@@ -6,15 +6,12 @@ public:
     int count = 0;
 
     for (int time : arr) {
-        int rem = time % t;
-        int complement = (t - rem);
-        if(complement==t){
-            count+=freq[0];
-        }
-        else{
-            count += freq[complement];
-        }
-        freq[rem]++;
+        int q = (time-1) / t+1;
+        int diff = (60*q-time);
+        
+        count+=freq[diff];
+
+        freq[time%60]++;
     }
 
     return count;
