@@ -140,6 +140,7 @@ My Solutions for DSA practice assignment
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1861-rotating-the-box) |
 | [1905-count-sub-islands](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1905-count-sub-islands) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -232,6 +233,7 @@ My Solutions for DSA practice assignment
 | [0189-rotate-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0788-rotated-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -548,6 +550,7 @@ My Solutions for DSA practice assignment
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3658-gcd-of-odd-and-even-sums) |
