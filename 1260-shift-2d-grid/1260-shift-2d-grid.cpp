@@ -20,7 +20,6 @@ public:
         reverse(arr.begin(), arr.end());
 
         for(int i=0; i<sz; i++){
-            cout<<arr[i]<<endl;
             int row=i/n;
             int col=i%n;
 
