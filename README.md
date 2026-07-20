@@ -198,6 +198,7 @@ My Solutions for DSA practice assignment
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0146-lru-cache) |
@@ -234,6 +235,7 @@ My Solutions for DSA practice assignment
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0189-rotate-array) |
@@ -350,6 +352,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0072-edit-distance) |
