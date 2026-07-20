@@ -3,20 +3,30 @@ public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
         int m=grid.size();
         int n=grid[0].size();
-        k=k%(m*n);
+        int sz=m*n;
+        vector<int> arr(sz, 0);
 
-        for(int shift=0; shift<k; shift++){
-
-            int temp=grid[m-1][n-1];
-            for(int i=m-1; i>=0; i--){
-                for(int j=n-1; j>=0; j--){
-                    if(i==0 && j==0)    continue;
-                    grid[i][j]=(j==0) ? grid[i-1][n-1] : grid[i][j-1];
-                }
+        int idx=0;
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                arr[idx]=grid[i][j];
+                idx++;
             }
-
-            grid[0][0]=temp;
         }
+        
+        k=k%(sz);
+        reverse(arr.begin(), arr.begin()+(sz-k));
+        reverse(arr.begin()+(sz-k), arr.end());
+        reverse(arr.begin(), arr.end());
+
+        for(int i=0; i<sz; i++){
+            cout<<arr[i]<<endl;
+            int row=i/n;
+            int col=i%n;
+
+            grid[row][col]=arr[i];
+        }
+
         return grid;
     }
 };
