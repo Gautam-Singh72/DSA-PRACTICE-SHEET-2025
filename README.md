@@ -162,6 +162,7 @@ My Solutions for DSA practice assignment
 | [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -287,6 +288,7 @@ My Solutions for DSA practice assignment
 | [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3620-network-recovery-pathways) |
@@ -377,6 +379,7 @@ My Solutions for DSA practice assignment
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2833-furthest-point-from-origin) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
@@ -517,6 +520,7 @@ My Solutions for DSA practice assignment
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
