@@ -121,6 +121,7 @@ My Solutions for DSA practice assignment
 | [0416-partition-equal-subset-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0735-asteroid-collision) |
@@ -244,6 +245,7 @@ My Solutions for DSA practice assignment
 | [0060-permutation-sequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0788-rotated-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -306,6 +308,7 @@ My Solutions for DSA practice assignment
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1331-rank-transform-of-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
