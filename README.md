@@ -133,6 +133,7 @@ My Solutions for DSA practice assignment
 | [1301-number-of-paths-with-max-score](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1331-rank-transform-of-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1603-running-sum-of-1d-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -312,6 +313,7 @@ My Solutions for DSA practice assignment
 | [1288-remove-covered-intervals](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1331-rank-transform-of-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -434,6 +436,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
