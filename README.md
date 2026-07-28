@@ -319,6 +319,7 @@ My Solutions for DSA practice assignment
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2463-minimum-total-distance-traveled](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2463-minimum-total-distance-traveled) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -391,6 +392,7 @@ My Solutions for DSA practice assignment
 | [2833-furthest-point-from-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2833-furthest-point-from-origin) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
@@ -602,4 +604,8 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
