@@ -7,7 +7,7 @@ public:
 
         return false;
     }
-    //t.c-O(n*logn + n)=O(n*logn) and S.C-O(n) brute force
+    //t.c-O(n*logn + n)=O(n*logn) and S.C-O(1) optimal
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
         int n=intervals.size();
         sort(intervals.begin(), intervals.end(), compare); //n*(logn)
