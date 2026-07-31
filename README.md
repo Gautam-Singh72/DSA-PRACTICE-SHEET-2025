@@ -207,6 +207,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0012-integer-to-roman) |
+| [0076-minimum-window-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0146-lru-cache) |
@@ -380,6 +381,7 @@ My Solutions for DSA practice assignment
 | [0020-valid-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0127-word-ladder) |
@@ -621,4 +623,8 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
