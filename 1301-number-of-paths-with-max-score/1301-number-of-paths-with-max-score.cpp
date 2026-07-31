@@ -1,49 +1,43 @@
+using PII = pair<int, int>;
+
 class Solution {
+private:
+    static constexpr int mod = (int)1e9 + 7;
+
 public:
-    const int M=1e9+7;
-    vector<vector<int>> dp;
-    vector<vector<vector<int>>> t;
-    int solve(int i, int j, vector<string>& board){
-        if(i<0 || j<0 || board[i][j]=='X')  return INT_MIN;
-        if(board[i][j]=='E'){
-            return 0;
+    void update(vector<vector<PII>>& dp, int n, int x, int y, int u, int v) {
+        if (u >= n || v >= n || dp[u][v].first == -1) {
+            return;
         }
-        if(dp[i][j] != -1)  return dp[i][j];
-
-        int val=(board[i][j]=='S') ? 0 : board[i][j]-'0';
-        int left= val + solve(i-1, j, board);
-        int up= val + solve(i, j-1, board);
-        int diag= val + solve(i-1, j-1, board); 
-
-        return dp[i][j]=max({left, up, diag});
-    }
-    int countPath(int i, int j, int target, vector<string>& board){
-        if(i<0 || j<0 || board[i][j]=='X')  return 0;
-        if(board[i][j]=='E'){
-            return target==0;
+        if (dp[u][v].first > dp[x][y].first) {
+            dp[x][y] = dp[u][v];
+        } else if (dp[u][v].first == dp[x][y].first) {
+            dp[x][y].second += dp[u][v].second;
+            if (dp[x][y].second >= mod) {
+                dp[x][y].second -= mod;
+            }
         }
-        if(t[i][j][target] != -1)   return t[i][j][target];
-
-        int val=(board[i][j]=='S') ? 0 : board[i][j]-'0';
-        int left= countPath(i-1, j, target-val, board);
-        int up= countPath(i, j-1, target-val, board);
-        int diag= countPath(i-1, j-1, target-val, board); 
-
-        return t[i][j][target]=(left+up+diag)%M;
     }
+
     vector<int> pathsWithMaxScore(vector<string>& board) {
-        int m=board.size();
-        int n=board[0].size();
-        dp.resize(n, vector<int>(n, -1));
-        
-        int maxSum=-1;
-        maxSum=solve(m-1, n-1, board);
-        if(maxSum<0)  return {0, 0};
-        
-        t.resize(n, vector<vector<int>>(n, vector<int>(maxSum+1, -1)));
-        int count=countPath(n-1, n-1, maxSum, board);
-
-        
-        return {maxSum, count};
+        int n = board.size();
+        vector<vector<PII>> dp(n, vector<PII>(n, {-1, 0}));
+        dp[n - 1][n - 1] = {0, 1};
+        for (int i = n - 1; i >= 0; --i) {
+            for (int j = n - 1; j >= 0; --j) {
+                if (!(i == n - 1 && j == n - 1) && board[i][j] != 'X') {
+                    update(dp, n, i, j, i + 1, j);
+                    update(dp, n, i, j, i, j + 1);
+                    update(dp, n, i, j, i + 1, j + 1);
+                    if (dp[i][j].first != -1) {
+                        dp[i][j].first +=
+                            (board[i][j] == 'E' ? 0 : board[i][j] - '0');
+                    }
+                }
+            }
+        }
+        return dp[0][0].first == -1
+                   ? vector<int>{0, 0}
+                   : vector<int>{dp[0][0].first, dp[0][0].second};
     }
 };
