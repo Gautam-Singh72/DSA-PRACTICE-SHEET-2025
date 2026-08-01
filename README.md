@@ -121,6 +121,7 @@ My Solutions for DSA practice assignment
 | [0399-evaluate-division](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0628-maximum-product-of-three-numbers) |
@@ -256,6 +257,7 @@ My Solutions for DSA practice assignment
 | [0060-permutation-sequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0788-rotated-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -360,6 +362,7 @@ My Solutions for DSA practice assignment
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0516-longest-palindromic-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0583-delete-operation-for-two-strings) |
@@ -550,6 +553,7 @@ My Solutions for DSA practice assignment
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0203-remove-linked-list-elements) |
+| [0486-predict-the-winner](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0486-predict-the-winner) |
 ## String Matching
 |  |
 | ------- |
@@ -637,4 +641,8 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0076-minimum-window-substring) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
