@@ -213,6 +213,7 @@ My Solutions for DSA practice assignment
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
@@ -388,6 +389,7 @@ My Solutions for DSA practice assignment
 | [0125-valid-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0316-remove-duplicate-letters) |
 | [0399-evaluate-division](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0399-evaluate-division) |
@@ -491,6 +493,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0146-lru-cache](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0937-online-stock-span) |
@@ -515,6 +518,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0208-implement-trie-prefix-tree) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Memoization
 |  |
