@@ -1,7 +1,6 @@
 class Solution {
 public:
     struct trieNode{
-        int num;
         trieNode* child[2];
     };
     trieNode* getNode(){
@@ -9,7 +8,6 @@ public:
         for(int i=0; i<2; i++){
             newnode->child[i]=nullptr;
         }
-        newnode->num=-404;
 
         return newnode;
     }
@@ -24,12 +22,12 @@ public:
             }
             crawler=crawler->child[bit];
         }
-        crawler->num=num;
+        
     }
     int find(trieNode* root, int &num){
         trieNode* crawler=root;
         // if(crawler==nullptr)    return -1;
-
+        int second=0;
         for(int i=31; i>=0; i--){
             int bit=((num >> i) & 1) != 0; //to follow rules of c++ and prevent compiler levl issue 
             int toggle=bit ^ 1;
@@ -37,12 +35,14 @@ public:
             if(crawler->child[toggle]==nullptr){
                 if(crawler->child[bit]==nullptr)    return -1;
                 crawler=crawler->child[bit];
+                if(bit) second+=pow(2, i);
             }else{
                 crawler=crawler->child[toggle];
+                if(toggle)  second+=pow(2, i);
             }
         }
 
-        return crawler->num;
+        return second;
     }
     static bool compare(vector<int>& a, vector<int>& b){
         if(a[1] < b[1])   return true;
