@@ -1,5 +1,6 @@
 class Solution {
 public:
+    vector<long long> pow2;
     struct trieNode{
         trieNode* child[2];
     };
@@ -35,10 +36,10 @@ public:
             if(crawler->child[toggle]==nullptr){
                 if(crawler->child[bit]==nullptr)    return -1;
                 crawler=crawler->child[bit];
-                if(bit) second+=pow(2, i);
+                if(bit) second+=pow2[i];
             }else{
                 crawler=crawler->child[toggle];
-                if(toggle)  second+=pow(2, i);
+                if(toggle)  second+=pow2[i];
             }
         }
 
@@ -49,10 +50,18 @@ public:
 
         return false;
     }
+    void calculatePow(){
+        pow2.assign(32, 0);
+        pow2[0]=1;
+        for(int i=1; i<32; i++){
+            pow2[i]=pow2[i-1] * 2;
+        }
+    }
     vector<int> maximizeXor(vector<int>& nums, vector<vector<int>>& queries) {
         int n=nums.size();
         int m=queries.size();
         trieNode* root=getNode();
+        calculatePow();
 
         vector<int> res(m, -1);
         //to maintain the order of the queries in res;
