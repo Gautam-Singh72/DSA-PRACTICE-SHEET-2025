@@ -142,6 +142,7 @@ My Solutions for DSA practice assignment
 | [1603-running-sum-of-1d-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1603-running-sum-of-1d-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -529,6 +530,7 @@ My Solutions for DSA practice assignment
 | [0208-implement-trie-prefix-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Memoization
 |  |
@@ -576,6 +578,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3534-path-existence-queries-in-a-graph-ii) |
