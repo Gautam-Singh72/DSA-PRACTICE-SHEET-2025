@@ -120,6 +120,7 @@ My Solutions for DSA practice assignment
 | [0396-rotate-function](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0463-island-perimeter](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
@@ -218,6 +219,7 @@ My Solutions for DSA practice assignment
 | [0208-implement-trie-prefix-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1331-rank-transform-of-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1331-rank-transform-of-an-array) |
@@ -526,6 +528,7 @@ My Solutions for DSA practice assignment
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Memoization
 |  |
@@ -571,6 +574,7 @@ My Solutions for DSA practice assignment
 ## Bit Manipulation
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3514-number-of-unique-xor-triplets-ii) |
