@@ -193,6 +193,7 @@ My Solutions for DSA practice assignment
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2429-minimize-xor](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2429-minimize-xor) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -579,6 +580,7 @@ My Solutions for DSA practice assignment
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2429-minimize-xor](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2429-minimize-xor) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3534-path-existence-queries-in-a-graph-ii) |
