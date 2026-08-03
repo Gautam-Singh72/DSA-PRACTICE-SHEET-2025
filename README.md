@@ -105,6 +105,7 @@ My Solutions for DSA practice assignment
 | [0016-3sum-closest](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0054-spiral-matrix) |
@@ -218,6 +219,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
