@@ -139,6 +139,7 @@ My Solutions for DSA practice assignment
 | [1288-remove-covered-intervals](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 | [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -272,6 +273,7 @@ My Solutions for DSA practice assignment
 | [0628-maximum-product-of-three-numbers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -386,6 +388,7 @@ My Solutions for DSA practice assignment
 | [1301-number-of-paths-with-max-score](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2463-minimum-total-distance-traveled) |
@@ -673,4 +676,13 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0486-predict-the-winner](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
