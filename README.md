@@ -697,10 +697,12 @@ My Solutions for DSA practice assignment
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 ## K-D Tree
 |  |
