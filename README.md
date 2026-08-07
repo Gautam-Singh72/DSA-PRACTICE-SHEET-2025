@@ -111,6 +111,7 @@ My Solutions for DSA practice assignment
 | [0048-rotate-image](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
@@ -345,6 +346,7 @@ My Solutions for DSA practice assignment
 | [0015-3sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
@@ -710,4 +712,8 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0973-k-closest-points-to-origin) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
