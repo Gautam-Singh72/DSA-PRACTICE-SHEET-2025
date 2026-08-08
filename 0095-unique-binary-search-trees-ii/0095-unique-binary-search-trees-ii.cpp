@@ -11,9 +11,13 @@
  */
 class Solution {
 public:
+    unordered_map<string, vector<TreeNode*>> mp;
     vector<TreeNode*> solve(int start, int end){
         if(start>end)    return {NULL};
         if(start==end)    return {new TreeNode(start)};
+
+        string key=to_string(start)+" "+to_string(end);
+        if(mp.count(key))   return mp[key];
 
         vector<TreeNode*> res;
         for(int i=start; i<=end; i++){
@@ -29,7 +33,7 @@ public:
                 }
             }
         }
-        return res;
+        return mp[key]=res;
     }
     vector<TreeNode*> generateTrees(int n) {
         
