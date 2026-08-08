@@ -6,6 +6,7 @@ My Solutions for DSA practice assignment
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -76,6 +77,7 @@ My Solutions for DSA practice assignment
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -284,6 +286,7 @@ My Solutions for DSA practice assignment
 | [0012-integer-to-roman](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0060-permutation-sequence) |
+| [0096-unique-binary-search-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0486-predict-the-winner) |
@@ -394,6 +397,7 @@ My Solutions for DSA practice assignment
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
@@ -499,6 +503,7 @@ My Solutions for DSA practice assignment
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
