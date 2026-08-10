@@ -303,6 +303,7 @@ My Solutions for DSA practice assignment
 | [0973-k-closest-points-to-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -431,6 +432,7 @@ My Solutions for DSA practice assignment
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2463-minimum-total-distance-traveled) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -738,18 +740,21 @@ My Solutions for DSA practice assignment
 | [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
 ## K-D Tree
 |  |
 | ------- |
@@ -766,4 +771,12 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0307-range-sum-query-mutable) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
