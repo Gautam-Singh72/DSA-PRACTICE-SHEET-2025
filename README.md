@@ -143,6 +143,7 @@ My Solutions for DSA practice assignment
 | [0502-ipo](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0724-find-pivot-index) |
@@ -217,6 +218,7 @@ My Solutions for DSA practice assignment
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
 | [0316-remove-duplicate-letters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0316-remove-duplicate-letters) |
 | [0502-ipo](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0502-ipo) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0646-maximum-length-of-pair-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -380,6 +382,7 @@ My Solutions for DSA practice assignment
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0502-ipo](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1288-remove-covered-intervals) |
@@ -430,6 +433,7 @@ My Solutions for DSA practice assignment
 | [0516-longest-palindromic-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0516-longest-palindromic-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0646-maximum-length-of-pair-chain) |
 | [0688-knight-probability-in-chessboard](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0688-knight-probability-in-chessboard) |
 | [0788-rotated-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
@@ -789,4 +793,8 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
