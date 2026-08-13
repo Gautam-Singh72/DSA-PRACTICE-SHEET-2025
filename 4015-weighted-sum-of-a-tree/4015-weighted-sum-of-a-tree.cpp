@@ -1,7 +1,8 @@
 class Solution {
 public:
+    //t.c-O(n)+O(n)+O(n) and s.c-O(n)+O(n)
     unordered_map<int, vector<int>> adj;
-    int height(int u){
+    int height(int u){ //O(n) in worst case
         queue<int> q;
         q.push(u);
 
@@ -20,8 +21,7 @@ public:
         }
         return height;
     }
-    long long solve(int u, int &h, vector<int>& nums){
-        
+    long long solve(int u, int &h, vector<int>& nums){ //O(n)
         queue<int> q;
         q.push(u);
 
@@ -49,15 +49,13 @@ public:
     long long weightedSum(vector<int>& parent, vector<int>& nums) {
         int n=parent.size();
         if(n==1)    return nums[0];
-        for(int i=1; i<n; i++){
+        for(int i=1; i<n; i++){ //O(n)
             int u=parent[i];
             int v=i;
             adj[u].push_back(v);
         }
 
         int h=height(0);
-        cout<<h<<endl;
-
 
         return solve(0, h, nums);
     }   
