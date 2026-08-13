@@ -153,6 +153,7 @@ My Solutions for DSA practice assignment
 | [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0973-k-closest-points-to-origin) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1048-longest-string-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1288-remove-covered-intervals) |
@@ -262,6 +263,7 @@ My Solutions for DSA practice assignment
 | [0677-map-sum-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0692-top-k-frequent-words) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1048-longest-string-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1331-rank-transform-of-an-array) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -345,6 +347,7 @@ My Solutions for DSA practice assignment
 | [0125-valid-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
+| [1048-longest-string-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1048-longest-string-chain) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1861-rotating-the-box) |
@@ -385,6 +388,7 @@ My Solutions for DSA practice assignment
 | [0646-maximum-length-of-pair-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1331-rank-transform-of-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
@@ -438,6 +442,7 @@ My Solutions for DSA practice assignment
 | [0788-rotated-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0894-all-possible-full-binary-trees) |
+| [1048-longest-string-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -479,6 +484,7 @@ My Solutions for DSA practice assignment
 | [0677-map-sum-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0796-rotate-string) |
+| [1048-longest-string-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
