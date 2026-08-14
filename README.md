@@ -121,6 +121,7 @@ My Solutions for DSA practice assignment
 | [0054-spiral-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
@@ -470,6 +471,7 @@ My Solutions for DSA practice assignment
 | [0012-integer-to-roman](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0115-distinct-subsequences) |
@@ -532,6 +534,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1260-shift-2d-grid) |
