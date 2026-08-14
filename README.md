@@ -240,6 +240,7 @@ My Solutions for DSA practice assignment
 | [0238-product-of-array-except-self](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1603-running-sum-of-1d-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1603-running-sum-of-1d-array) |
 | [2615-sum-of-distances](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3312-sorted-gcd-pair-queries) |
@@ -452,6 +453,7 @@ My Solutions for DSA practice assignment
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1911-maximum-alternating-subsequence-sum) |
