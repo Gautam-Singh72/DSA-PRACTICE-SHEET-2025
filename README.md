@@ -134,6 +134,7 @@ My Solutions for DSA practice assignment
 | [0189-rotate-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
@@ -242,6 +243,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -524,6 +526,7 @@ My Solutions for DSA practice assignment
 | [0054-spiral-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0174-dungeon-game) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0695-max-area-of-island) |
@@ -610,6 +613,7 @@ My Solutions for DSA practice assignment
 | [0208-implement-trie-prefix-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0232-implement-queue-using-stacks) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0307-range-sum-query-mutable) |
 | [0676-implement-magic-dictionary](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0677-map-sum-pairs) |
