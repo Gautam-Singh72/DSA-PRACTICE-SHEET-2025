@@ -213,6 +213,7 @@ My Solutions for DSA practice assignment
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3620-network-recovery-pathways) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3724-minimum-operations-to-transform-array) |
 | [3731-find-missing-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -706,6 +707,7 @@ My Solutions for DSA practice assignment
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Graph Theory
 |  |
 | ------- |
