@@ -11,21 +11,12 @@
  */
 class Solution {
 public:
-    //T.C->O(N) AND S.C->O(H) recursion stack
-    bool hasPath(TreeNode* root, int &targetSum, int sum){
-        if(root==NULL)  return false;
-        if(root->left==NULL && root->right==NULL){
-            return sum+(root->val)==targetSum;
-        }
-        // if(root->left==NULL && root->right==NULL && sum+(root->val)!=targetSum){
-        //     return false;
-        // }
-        return hasPath(root->left, targetSum, sum+root->val) || hasPath(root->right, targetSum, sum+root->val);
-
-    }
     bool hasPathSum(TreeNode* root, int targetSum) {
-        
-        return hasPath(root, targetSum, 0);
+        if(!root)   return false;
+        if(!root->left && !root->right){
+            return targetSum-root->val==0;
+        }
 
+        return hasPathSum(root->left, targetSum-root->val) || hasPathSum(root->right, targetSum-root->val);
     }
 };
