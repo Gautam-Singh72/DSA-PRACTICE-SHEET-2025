@@ -18,6 +18,7 @@ My Solutions for DSA practice assignment
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0404-sum-of-left-leaves) |
+| [0437-path-sum-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0437-path-sum-iii) |
 | [0894-all-possible-full-binary-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0894-all-possible-full-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -38,6 +39,7 @@ My Solutions for DSA practice assignment
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0404-sum-of-left-leaves) |
+| [0437-path-sum-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0463-island-perimeter) |
 | [0676-implement-magic-dictionary](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0695-max-area-of-island) |
@@ -93,6 +95,7 @@ My Solutions for DSA practice assignment
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0404-sum-of-left-leaves) |
+| [0437-path-sum-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0437-path-sum-iii) |
 | [0894-all-possible-full-binary-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0894-all-possible-full-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
