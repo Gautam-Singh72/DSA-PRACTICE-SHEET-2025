@@ -156,6 +156,7 @@ My Solutions for DSA practice assignment
 | [0540-single-element-in-a-sorted-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0724-find-pivot-index) |
@@ -462,6 +463,7 @@ My Solutions for DSA practice assignment
 | [0576-out-of-boundary-paths](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0688-knight-probability-in-chessboard) |
 | [0788-rotated-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
@@ -700,6 +702,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -826,6 +829,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -843,6 +847,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Ordered Set
 |  |
 | ------- |
