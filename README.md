@@ -173,6 +173,7 @@ My Solutions for DSA practice assignment
 | [1288-remove-covered-intervals](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 | [1424-diagonal-traverse-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -241,6 +242,7 @@ My Solutions for DSA practice assignment
 | [0502-ipo](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0646-maximum-length-of-pair-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -289,6 +291,7 @@ My Solutions for DSA practice assignment
 | [1048-longest-string-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1048-longest-string-chain) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1386-cinema-seat-allocation) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2615-sum-of-distances](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2615-sum-of-distances) |
@@ -721,6 +724,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2429-minimize-xor](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2429-minimize-xor) |
