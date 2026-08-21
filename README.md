@@ -167,6 +167,7 @@ My Solutions for DSA practice assignment
 | [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0973-k-closest-points-to-origin) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1048-longest-string-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1260-shift-2d-grid) |
@@ -477,6 +478,7 @@ My Solutions for DSA practice assignment
 | [0788-rotated-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0894-all-possible-full-binary-trees) |
+| [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1048-longest-string-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1301-number-of-paths-with-max-score) |
@@ -804,6 +806,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0076-minimum-window-substring) |
+| [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Game Theory
