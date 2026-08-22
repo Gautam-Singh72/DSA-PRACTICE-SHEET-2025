@@ -375,6 +375,7 @@ My Solutions for DSA practice assignment
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0016-3sum-closest) |
@@ -458,6 +459,7 @@ My Solutions for DSA practice assignment
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0053-maximum-subarray) |
@@ -506,6 +508,7 @@ My Solutions for DSA practice assignment
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0012-integer-to-roman) |
@@ -884,4 +887,8 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0124-binary-tree-maximum-path-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
