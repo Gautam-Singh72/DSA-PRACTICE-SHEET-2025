@@ -2,16 +2,14 @@ class Solution {
 public:
     vector<vector<int>> t;
     bool isPalindrome(int i, int j, string& s){
+        if(i>j) return true;
         if(t[i][j] != -1)   return t[i][j];
 
-        int x=i, y=j;
-        while(i<j){
-            if(s[i] != s[j])    return t[x][y]=false;
+        if(s[i] != s[j])    return t[i][j]=false;
 
-            i++; j--;
-        }
+        
 
-        return t[x][y]=true;
+        return t[i][j]=isPalindrome(i+1, j-1, s);
     }
     int countSubstrings(string s) {
         int n=s.size();
