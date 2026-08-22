@@ -364,6 +364,7 @@ My Solutions for DSA practice assignment
 | [3536-maximum-product-of-two-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
