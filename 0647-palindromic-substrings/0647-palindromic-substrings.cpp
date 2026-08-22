@@ -6,7 +6,7 @@ public:
 
         int x=i, y=j;
         while(i<j){
-            if(s[i] != s[j])    return t[i][j]=false;
+            if(s[i] != s[j])    return t[x][y]=false;
 
             i++; j--;
         }
