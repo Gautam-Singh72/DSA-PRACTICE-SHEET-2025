@@ -247,6 +247,7 @@ My Solutions for DSA practice assignment
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -348,6 +349,7 @@ My Solutions for DSA practice assignment
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2029-stone-game-ix) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -538,6 +540,7 @@ My Solutions for DSA practice assignment
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1927-sum-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -830,6 +833,7 @@ My Solutions for DSA practice assignment
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
