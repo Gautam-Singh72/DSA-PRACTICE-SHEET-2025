@@ -189,6 +189,7 @@ My Solutions for DSA practice assignment
 | [1848-minimum-distance-to-the-target-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1872-stone-game-viii) |
 | [1905-count-sub-islands](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1905-count-sub-islands) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -267,6 +268,7 @@ My Solutions for DSA practice assignment
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1603-running-sum-of-1d-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1603-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1872-stone-game-viii) |
 | [2615-sum-of-distances](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3312-sorted-gcd-pair-queries) |
 | [3355-zero-array-transformation-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3355-zero-array-transformation-i) |
@@ -349,6 +351,7 @@ My Solutions for DSA practice assignment
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2029-stone-game-ix) |
@@ -498,6 +501,7 @@ My Solutions for DSA practice assignment
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2463-minimum-total-distance-traveled) |
@@ -833,6 +837,7 @@ My Solutions for DSA practice assignment
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -842,6 +847,7 @@ My Solutions for DSA practice assignment
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -850,6 +856,7 @@ My Solutions for DSA practice assignment
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2029-stone-game-ix) |
 ## K-D Tree
 |  |
