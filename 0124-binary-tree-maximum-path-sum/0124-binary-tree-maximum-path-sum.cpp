@@ -14,7 +14,7 @@ public:
     int maxSum=INT_MIN;
     int solve(TreeNode* root){
         if(!root)   return 0;
-        // if(!root->left && !root->right) return root->val;
+        if(!root->left && !root->right){ maxSum=max(maxSum, root->val); return root->val; }
   
         int left=solve(root->left);
         int right=solve(root->right);
