@@ -5,8 +5,8 @@ public:
 
         int n=s.size();
         for(int i=0; i<n; i++){
-            if(s[i] != t[i] && s[i]>t[i]){
-                return t;
+            if(s[i] != t[i]){
+                return s[i]<t[i] ? s : t;
             }
         }
         return s;
@@ -41,11 +41,12 @@ public:
                 start++;
             }
             if(end-start+1==minLen && count==k){
-                // res=findMin(res, s.substr(start, end-start+1));
                 string curr=s.substr(start, minLen);
-                if(res=="" || curr<res){
-                    res=curr;
-                }
+                res=findMin(res, curr);
+                
+                // if(res=="" || curr<res){
+                //     res=curr;
+                // }
             }
             end++;
         }
