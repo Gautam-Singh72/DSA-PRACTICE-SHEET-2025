@@ -21,6 +21,7 @@ My Solutions for DSA practice assignment
 | [0404-sum-of-left-leaves](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0437-path-sum-iii) |
 | [0894-all-possible-full-binary-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0894-all-possible-full-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -46,6 +47,7 @@ My Solutions for DSA practice assignment
 | [0676-implement-magic-dictionary](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0676-implement-magic-dictionary) |
 | [0695-max-area-of-island](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0827-making-a-large-island) |
+| [0938-range-sum-of-bst](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -100,6 +102,7 @@ My Solutions for DSA practice assignment
 | [0404-sum-of-left-leaves](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0437-path-sum-iii) |
 | [0894-all-possible-full-binary-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0894-all-possible-full-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Linked List
@@ -614,6 +617,7 @@ My Solutions for DSA practice assignment
 | [0099-recover-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Heap (Priority Queue)
 |  |
