@@ -1,52 +1,40 @@
 class Solution {
 public:
+    string res;
+    bool solve(int i, string &curr, bool greater, string &target, vector<int>& count){
+        if(i==target.size()){
+            if(greater){
+                res=curr;
+                return true;
+            }
+            return false;
+        }
+
+        for(char ch='a'; ch<='z'; ch++){
+            if(count[ch-'a']==0)    continue;
+
+            if(!greater && ch<target[i]) continue;
+
+            bool isGreater= greater || ch>target[i];
+            curr.push_back(ch);
+            count[ch-'a']--;
+
+            if(solve(i+1, curr, isGreater, target, count)){
+                return true;
+            }
+            curr.pop_back();
+            count[ch-'a']++;
+        }
+        return false;
+    }
     string lexGreaterPermutation(string s, string target) {
-        int cnt[26] = {};
-
-        for (char ch : s) {
-            cnt[ch - 'a']++;
+        vector<int> count(26);
+        for(char &ch: s){
+            count[ch-'a']++;
         }
+        string curr="";
+        solve(0, curr, false, target, count);
 
-        for (char ch : target) {
-            cnt[ch - 'a']--;
-        }
-
-        for (int i = target.size() - 1; i >= 0; i--) {
-            int cur = target[i] - 'a';
-            cnt[cur]++;
-
-            bool ok = true;
-            for (int c = 0; c < 26; c++) {
-                if (cnt[c] < 0) {
-                    ok = false;
-                    break;
-                }
-            }
-
-            if (!ok) continue;
-
-            int next = -1;
-            for (int c = cur + 1; c < 26; c++) {
-                if (cnt[c] > 0) {
-                    next = c;
-                    break;
-                }
-            }
-
-            if (next == -1) continue;
-
-            cnt[next]--;
-
-            string ans = target.substr(0, i);
-            ans += char('a' + next);
-
-            for (int c = 0; c < 26; c++) {
-                ans.append(cnt[c], char('a' + c));
-            }
-
-            return ans;
-        }
-
-        return "";
+        return res;
     }
 };
