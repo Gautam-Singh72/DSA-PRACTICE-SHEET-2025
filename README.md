@@ -116,6 +116,7 @@ My Solutions for DSA practice assignment
 | [0146-lru-cache](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0203-remove-linked-list-elements) |
 | [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
 |  |
