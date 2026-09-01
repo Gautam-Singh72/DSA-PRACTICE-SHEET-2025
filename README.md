@@ -127,6 +127,7 @@ My Solutions for DSA practice assignment
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0016-3sum-closest) |
@@ -291,6 +292,7 @@ My Solutions for DSA practice assignment
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0076-minimum-window-substring) |
