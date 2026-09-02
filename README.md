@@ -248,6 +248,7 @@ My Solutions for DSA practice assignment
 | [3742-maximum-path-score-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -397,6 +398,7 @@ My Solutions for DSA practice assignment
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
