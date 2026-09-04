@@ -249,6 +249,7 @@ My Solutions for DSA practice assignment
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -290,6 +291,7 @@ My Solutions for DSA practice assignment
 | [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
