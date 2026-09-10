@@ -26,6 +26,7 @@ My Solutions for DSA practice assignment
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -54,6 +55,7 @@ My Solutions for DSA practice assignment
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1905-count-sub-islands) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2685-count-the-number-of-complete-components) |
@@ -105,6 +107,7 @@ My Solutions for DSA practice assignment
 | [0938-range-sum-of-bst](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
 | ------- |
