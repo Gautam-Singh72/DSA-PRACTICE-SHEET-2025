@@ -19,6 +19,7 @@ My Solutions for DSA practice assignment
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0337-house-robber-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0437-path-sum-iii) |
 | [0894-all-possible-full-binary-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0894-all-possible-full-binary-trees) |
@@ -44,6 +45,7 @@ My Solutions for DSA practice assignment
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0337-house-robber-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0437-path-sum-iii) |
@@ -108,6 +110,7 @@ My Solutions for DSA practice assignment
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0337-house-robber-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0437-path-sum-iii) |
 | [0894-all-possible-full-binary-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0894-all-possible-full-binary-trees) |
@@ -522,6 +525,7 @@ My Solutions for DSA practice assignment
 | [0174-dungeon-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0337-house-robber-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0486-predict-the-winner) |
@@ -957,6 +961,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0337-house-robber-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0337-house-robber-iii) |
 ## Manacher
 |  |
 | ------- |
