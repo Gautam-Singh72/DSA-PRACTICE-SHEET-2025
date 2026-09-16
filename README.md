@@ -164,6 +164,7 @@ My Solutions for DSA practice assignment
 | [0300-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
@@ -450,6 +451,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -505,6 +507,7 @@ My Solutions for DSA practice assignment
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -790,6 +793,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -797,6 +801,7 @@ My Solutions for DSA practice assignment
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
@@ -933,6 +938,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Sqrt Decomposition
 |  |
@@ -955,6 +961,7 @@ My Solutions for DSA practice assignment
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## DP on Trees
@@ -974,4 +981,8 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0785-is-graph-bipartite) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
