@@ -11,21 +11,17 @@
  */
 class Solution {
 public:
-    map<pair<TreeNode*, pair<int, int>>, int> mp;
-    int dp(TreeNode* root, int rob, int par){
+    map<pair<TreeNode*, int>, int> mp;
+    int solve(TreeNode* root, int rob){
         if(!root)   return 0;
-        if(!root->left && !root->right){
-            if(rob) return root->val;
-            return 0;
-        }
-        if(mp.count({root, {rob, par}}))    return mp[{root, {rob, par}}];
-
+        if(mp.count({root, rob}))   return mp[{root, rob}];
+        
         if(rob){
-            return root->val + dp(root->left, 0, 1) + dp(root->right, 0, 1);
+            return mp[{root, rob}]=root->val + solve(root->left, 0) + solve(root->right, 0);
         }
-        return mp[{root, {rob, par}}] = max(dp(root->left, 0, 0), dp(root->left, 1, 0))+max(dp(root->right, 0, 0), dp(root->right, 1, 0));
+        return mp[{root, rob}] = max(solve(root->left, 1), solve(root->left, 0))+max(solve(root->right, 1), solve(root->right, 0));
     }
     int rob(TreeNode* root) {
-        return max(dp(root, 0, 0), dp(root, 1, 0));
+        return max(solve(root, 1), solve(root, 0));
     }
 };
