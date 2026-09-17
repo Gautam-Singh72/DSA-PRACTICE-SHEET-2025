@@ -24,6 +24,7 @@ My Solutions for DSA practice assignment
 | [0437-path-sum-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0437-path-sum-iii) |
 | [0894-all-possible-full-binary-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0894-all-possible-full-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0938-range-sum-of-bst) |
+| [0968-binary-tree-cameras](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -55,6 +56,7 @@ My Solutions for DSA practice assignment
 | [0785-is-graph-bipartite](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0827-making-a-large-island) |
 | [0938-range-sum-of-bst](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0938-range-sum-of-bst) |
+| [0968-binary-tree-cameras](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -115,6 +117,7 @@ My Solutions for DSA practice assignment
 | [0437-path-sum-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0437-path-sum-iii) |
 | [0894-all-possible-full-binary-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0894-all-possible-full-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0938-range-sum-of-bst) |
+| [0968-binary-tree-cameras](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -542,6 +545,7 @@ My Solutions for DSA practice assignment
 | [0788-rotated-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0894-all-possible-full-binary-trees) |
+| [0968-binary-tree-cameras](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0968-binary-tree-cameras) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1048-longest-string-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1140-stone-game-ii) |
@@ -969,6 +973,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0337-house-robber-iii) |
+| [0968-binary-tree-cameras](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0968-binary-tree-cameras) |
 ## Manacher
 |  |
 | ------- |
