@@ -21,8 +21,35 @@ public:
     }
     int maxProfit(vector<int>& prices) {
         n=prices.size();
-        t.assign(n, vector<vector<int>>(2, vector<int>(3, -1)));
+        t.assign(n+1, vector<vector<int>>(2, vector<int>(3, -1)));
 
-        return solve(0, 1, 2, prices);
+        //base cases
+        for(int i=0; i<=n; i++){
+            for(int j=0; j<=1; j++){
+                t[i][j][0]=0;
+            }
+        }
+        for(int j=0; j<=1; j++){
+            for(int k=1; k<=2; k++){
+                t[n][j][k]=0;
+            }
+        }
+
+        //
+        for(int i=n-1; i>=0; i--){
+            for(int j=0; j<=1; j++){
+                for(int k=1; k<=2; k++){
+                    if(j){
+                        t[i][j][k]=max(-1*prices[i]+t[i+1][0][k], t[i+1][1][k]);
+                    }
+                    else{
+                        t[i][j][k]=max(prices[i]+t[i+1][1][k-1], t[i+1][0][k]);
+                    }
+                
+                }
+            }
+        }
+
+        return t[0][1][2];
     }
 };
