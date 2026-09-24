@@ -263,6 +263,7 @@ My Solutions for DSA practice assignment
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3620-network-recovery-pathways) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3724-minimum-operations-to-transform-array) |
@@ -316,6 +317,7 @@ My Solutions for DSA practice assignment
 | [3312-sorted-gcd-pair-queries](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3312-sorted-gcd-pair-queries) |
 | [3355-zero-array-transformation-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3356-zero-array-transformation-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3903-smallest-stable-index-i) |
@@ -918,6 +920,7 @@ My Solutions for DSA practice assignment
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Game Theory
 |  |
 | ------- |
