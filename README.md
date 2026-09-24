@@ -160,6 +160,7 @@ My Solutions for DSA practice assignment
 | [0074-search-a-2d-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0174-dungeon-game) |
@@ -530,6 +531,7 @@ My Solutions for DSA practice assignment
 | [0115-distinct-subsequences](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0174-dungeon-game) |
