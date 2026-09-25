@@ -1,20 +1,19 @@
 class Solution {
 public:
-   vector<int> dp;
-    //T.C-O(n*n) and S.C->O(n)
+    //patence sorting n*(log n)
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
-        dp.assign(n, 1);
-
-        int res=1;
-        for(int i=0; i<n; i++){
-            for(int j=0; j<i; j++){
-                if(nums[i]>nums[j]){
-                    dp[i]=max(dp[i], 1+dp[j]);
-                }
+        
+        vector<int> res;
+        for(int num: nums){
+            auto it=lower_bound(res.begin(), res.end(), num);
+            if(it==res.end()){
+                res.push_back(num);
+            }else{
+                res[it-res.begin()]=num;
             }
-            res=max(res, dp[i]);
         }
-        return res;
+
+        return res.size();
     }
 };
