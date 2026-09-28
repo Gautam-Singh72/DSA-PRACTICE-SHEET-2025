@@ -619,6 +619,7 @@ My Solutions for DSA practice assignment
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -723,6 +724,7 @@ My Solutions for DSA practice assignment
 | [0735-asteroid-collision](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0937-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
@@ -1038,4 +1040,8 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0202-happy-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
