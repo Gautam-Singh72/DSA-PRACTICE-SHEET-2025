@@ -38,7 +38,7 @@ public:
         m=grid.size();
         n=grid[0].size();
 
-        dp.assign(m, vector<vector<int>>(n, vector<int>(201, -1)));
+        dp.assign(m, vector<vector<int>>(n, vector<int>(m+n, -1)));
         return solve(0, 0, 0, grid);
     }
 };
