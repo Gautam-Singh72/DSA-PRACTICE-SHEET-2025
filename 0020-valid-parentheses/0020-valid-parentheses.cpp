@@ -1,10 +1,10 @@
 class Solution {
 public:
+    unordered_map<char, char> mp;
     bool check(char ch, stack<char>& st){
         if(st.empty())  return false;
-        if(ch==']' && st.top()=='[')    return true;
-        if(ch==')' && st.top()=='(')    return true;
-        if(ch=='}' && st.top()=='{')    return true;
+        
+        if(mp[st.top()]==ch)    return true;
 
         return false;
     }
@@ -22,6 +22,11 @@ public:
         return st.empty();
     }
     bool isValid(string s) {
+        vector<vector<char>> brackets={{'[', ']'}, {'{', '}'}, {'(', ')'}};
+        for(vector<char>& b: brackets){
+            mp[b[0]]=b[1];
+        }
+        
         return solve(s);
     }
 };
