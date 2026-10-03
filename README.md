@@ -131,6 +131,7 @@ My Solutions for DSA practice assignment
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0203-remove-linked-list-elements) |
 | [0860-design-circular-queue](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0860-design-circular-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -334,6 +335,7 @@ My Solutions for DSA practice assignment
 | [0127-word-ladder](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0208-implement-trie-prefix-tree) |
@@ -450,6 +452,7 @@ My Solutions for DSA practice assignment
 | [0061-rotate-list](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0349-intersection-of-two-arrays) |
