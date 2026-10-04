@@ -288,6 +288,7 @@ My Solutions for DSA practice assignment
 | [0316-remove-duplicate-letters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0316-remove-duplicate-letters) |
 | [0502-ipo](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1386-cinema-seat-allocation) |
@@ -564,6 +565,7 @@ My Solutions for DSA practice assignment
 | [0646-maximum-length-of-pair-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0788-rotated-digits) |
@@ -619,6 +621,7 @@ My Solutions for DSA practice assignment
 | [0657-robot-return-to-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0657-robot-return-to-origin) |
 | [0676-implement-magic-dictionary](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0677-map-sum-pairs) |
+| [0678-valid-parenthesis-string](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1048-longest-string-chain) |
@@ -732,6 +735,7 @@ My Solutions for DSA practice assignment
 | [0232-implement-queue-using-stacks](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0937-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1058,6 +1062,7 @@ My Solutions for DSA practice assignment
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
