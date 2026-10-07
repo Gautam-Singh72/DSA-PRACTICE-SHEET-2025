@@ -401,6 +401,7 @@ My Solutions for DSA practice assignment
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0060-permutation-sequence) |
