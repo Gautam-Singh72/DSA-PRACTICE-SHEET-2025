@@ -149,6 +149,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0016-3sum-closest) |
@@ -481,6 +482,7 @@ My Solutions for DSA practice assignment
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -537,6 +539,7 @@ My Solutions for DSA practice assignment
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
