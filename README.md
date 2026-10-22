@@ -341,6 +341,7 @@ My Solutions for DSA practice assignment
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0076-minimum-window-substring) |
@@ -615,6 +616,7 @@ My Solutions for DSA practice assignment
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0010-regular-expression-matching) |
@@ -964,6 +966,7 @@ My Solutions for DSA practice assignment
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0076-minimum-window-substring) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
