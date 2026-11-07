@@ -568,6 +568,7 @@ My Solutions for DSA practice assignment
 | [0044-wildcard-matching](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0115-distinct-subsequences) |
@@ -633,6 +634,7 @@ My Solutions for DSA practice assignment
 | [0068-text-justification](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/0127-word-ladder) |
