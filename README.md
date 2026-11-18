@@ -673,6 +673,7 @@ My Solutions for DSA practice assignment
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gautam-Singh72/DSA-PRACTICE-SHEET-2025/tree/master/3090-maximum-length-substring-with-two-occurrences) |
